@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.89
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Willard.DevOps.AWS.WorkspaceModifier", "Willard.DevOps.AWS.WorkspaceModifier.csproj", "{120A250E-2B98-43CD-8A71-74D37E7D19EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{120A250E-2B98-43CD-8A71-74D37E7D19EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{120A250E-2B98-43CD-8A71-74D37E7D19EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{120A250E-2B98-43CD-8A71-74D37E7D19EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{120A250E-2B98-43CD-8A71-74D37E7D19EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13767D5A-CDA4-4119-98EE-D31ECD10C174}
+	EndGlobalSection
+EndGlobal
